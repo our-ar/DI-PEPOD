@@ -1,0 +1,38 @@
+Studi Kasus ini bertujuan untuk memperdalam materi tentang Penyelesaian Masalah Menggunakan Cara Berpikir Komputasional. Sehingga kita dapat menyelesaikan masalah yang terjadi pada sebuah aplikasi dengan menerapkan teknik-teknik seperti berikut: 
+•	Memecah permasalahan yang besar menjadi bagian kecil (decomposition)
+Dengan teknik decomposition tersebut, maka kita tidak lagi melihat sebuah permasalahan sebagai hal yang kompleks. Karena kita telah memecahnya menjadi bagian atau tugas-tugas kecil yang bisa dikerjakan.
+•	Pelajari pola dari setiap permasalahan (pattern recognition)
+Pattern Recognition merupakan teknik pemecahan masalah dengan melihat perbedaan atau persamaan pola dari berbagai permasalahan. Sehingga kita dapat memprediksi atau memproyeksikan solusi apa yang harus kita lakukan. Ketika kita dihadapkan dengan banyak permasalahan, kita harus bisa mempelajari polanya supaya dapat menyelesaikan dengan cepat.
+•	Mengabstraksikan suatu permasalahan (abstraction)
+Abstraksi merupakan cara berpikir komputasional yang identik dengan penyaringan dan pengumpulan data yang bersifat umum. Selain itu, abstraksi juga akan mengesampingkan detail data yang bersifat khusus atau yang tidak kita perlukan untuk lebih berkonsentrasi terhadap apa yang akan dilakukan.
+•	Susun langkah menggunakan algoritma (algorithm)
+Algoritma merupakan sekumpulan alur instruksi yang berurutan untuk menyelesaikan permasalahan. Sehingga kita akan merangkai sekumpulan instruksi tersebut menjadi urutan yang terstruktur, logis, dan mudah dipahami. Algoritma yang dibuat harus memuat beberapa hal yaitu, titik awal, titik akhir, dan serangkaian instruksi yang jelas.
+•	Mengevaluasi solusi yang didapatkan (evaluation)
+Proses terakhir yang dapat kita lakukan adalah melakukan evaluasi terhadap solusi yang telah kita dapatkan. Proses ini perlu dilakukan sebelum melangkah ke permasalahan atau tugas yang baru.  
+
+
+flowchart
+atau bisa disebut dengan diagram alur merupakan bentuk penggambaran dengan pendekatan visual terkait langkah-langkah dan keputusan untuk melakukan sebuah proses, alur kerja, ataupun algoritma. Setiap langkah dalam urutan proses akan digambarkan dalam bentuk diagram dan dihubungkan dengan garis atau arah panah.
+Diagram alur ini juga berperan penting dalam kasus yang melibatkan banyak orang secara bersamaan dalam memutuskan sebuah langkah atau fungsionalitas yang diinginkan dari sebuah proyek. Mereka akan lebih jelas, ringkas, dan mengurangi kemungkinan untuk salah tafsir tentang langkah apa yang harus dilakukan.
+
+sikap kerja dalam kolaborasi perencanaan aplikasi dengan tim, simaklah uraian berikut.
+Efektifkan Komunikasi
+Membangun Kepercayaan dalam Tim
+Berikan Semangat Anda
+Utamakan Diskusi
+Hindari Sikap Tidak Tanggap (slow response)
+Menentukan Prioritas
+
+
+sintaks bahasa pemograman
+Sintaksis merupakan aturan-aturan yang ada di dalam bahasa pemrograman. Sintaksis harus benar-benar dipatuhi aturannya supaya kode kita berjalan dengan baik. Di beberapa bahasa pemrograman, sintaksisnya ada yang hampir sama, ada juga yang jauh berbeda.
+•	Case Sensitivity
+setiap kapitalitas huruf pada sebuah kode akan berpengaruh
+•	Penulisan Statement
+Aplikasi terdiri dari kumpulan instruksi tunggal yang berkaitan satu sama lain. Misalnya dalam buku resep masakan kita sering menemui instruksi, “Panaskan air hingga 200 derajat celcius.”, “Diamkan adonan di dalam kulkas selama 3 jam.”, dan banyak lagi instruksi lainnya. Dalam aturan menulis sebuah kode pemrograman, instruksi di atas sering disebut dengan istilah statement. 
+•	Whitespace
+Whitespace saat kita mengetik kode biasanya berupa spasi atau tab untuk indentasi. Selain itu kita juga menggunakan enter dan ada baris kosong untuk membedakan setiap kode yang ada. 
+•	Keyword, dan
+? Keyword merupakan kata kunci yang telah disediakan oleh sebuah bahasa pemrograman. Keyword tidak bisa berdiri sendiri guna membuat sebuah program yang dapat dijalankan. Kita harus mengkombinasikan keyword dengan logika pemrograman yang ada dengan bahasa yang kita pahami. 
+•	Penulisan pseudocode
+Pseudocode merupakan istilah dalam pemrograman untuk menuliskan sebuah sintaks, statement, algoritma, dan lainnya dalam bahasa yang bisa dipahami oleh manusia. Sederhananya, pseudocode adalah bentuk representasi dari kode kita nantinya dengan versi yang human readable, bukan computer readable.
